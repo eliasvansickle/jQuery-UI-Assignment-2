@@ -49,6 +49,16 @@ blockquote, q {
 	min-height: 970px;
 }
 
+#tabs {
+	margin-top: 20px;
+}
+
+#draggable {
+	margin-top: 20px;
+	display: inline-block;
+}
+
+
 
 
 
