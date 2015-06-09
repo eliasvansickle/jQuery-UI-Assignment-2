@@ -7,7 +7,7 @@ dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
 	font-weight: inherit;
 	font-style: inherit;
 	font-size: 100%;
-	outline: 1px dotted red;
+	/*outline: 1px dotted red;*/
 	padding: 0;
 	margin: 0;
 	border: 0;
@@ -43,10 +43,10 @@ blockquote, q {
 
 /*====================MY CODE BELOW======================================*/
 #wrapper {
-	background-color: lightblue;
+	/*background-color: lightblue;*/
 	margin: 0 auto;
 	max-width: 970px;
-	min-height: 970px;
+	min-height: 100%;
 }
 
 #tabs {
